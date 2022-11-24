@@ -10,7 +10,7 @@
         "renamer"
     ],
 
-    "repository": "https://github.com/Abhyudak/Renamer",
+    "repository": "https://github.com/Abhyudak/TG-RENAMER-BOT",
     "stack": "heroku-22",
     "website": "https://t.me/Ns_bot_updates",
     "success_url": "https://t.me/RenamerNs_bot",
